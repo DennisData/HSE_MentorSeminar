@@ -1,1 +1,5 @@
-This is first file!
+123
+12345
+New line!
+321
+end of file
