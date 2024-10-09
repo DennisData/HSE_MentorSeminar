@@ -1,5 +1,5 @@
 123
 12345
 New line!
-change line 3
+line after solve conflict
 end of file
